@@ -10,8 +10,8 @@ Java Collection framework provides many interfaces (Set, List, Queue, Deque) and
 
 List: 
   - it stores the objects with duplicate
-  - ArrayList 
-  - LinkedArrayList
+  - ArrayList  => ArrayList ->performance O(1)	
+  - LinkedArrayList => LinkedList -> performance O(N)
   - Vector
   - Stack
  
