@@ -37,10 +37,10 @@ List:
 	- TreeMap => Never care about insertion order by keeps the sorting order in ascending implements NavigableMap
 
 
-interface	Hash Table	Resizable Array	Balanced Tree	Linked List	Hash Table + Linked List
-_________________________________________________________________________________________________________
-Set		HashSet	 			TreeSet	 			LinkedHashSet
-List	 			ArrayList	 		LinkedList	 
-Deque	 			ArrayDeque	 		LinkedList	 
-Map		HashMap	 			TreeMap	 			LinkedHashMap
 
+| Interface | Hash Table | Resizable Array | Balanced Tree | Linked List | Hash Table + Linked List |
+|:---------:|:----------:|:---------------:|:-------------:|:-----------:|:------------------------:|
+| Set       | HashSet    |                 | TreeSet       |             | LinkedHashSet            |
+| List      |            | ArrayList       |               | LinkedList  |                          |
+| Deque     |            | ArrayDeque      |               | LinkedList  |                          |
+| Map       | HashMap    |                 | TreeMap       |             | LinkedHashMap            |
